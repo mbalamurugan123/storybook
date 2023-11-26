@@ -1,0 +1,11 @@
+.story_frame{
+  background-image: linear-gradient(to bottom,rgb(153, 214, 243),rgb(185,229,251));
+  padding: 0px 400px 0px 400px;
+  font-family: cursive;
+  font-size: large;
+  font-weight: bolder;
+}
+.story_title{
+  padding-top: 15%;
+  text-align: center;
+}
